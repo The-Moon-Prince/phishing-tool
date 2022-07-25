@@ -19,7 +19,7 @@ def banner():
     print("/_/    \__, /_/   /_/ /_/_/____/_/ /_/\___/_/")
     print("      /____/")
     print("")
-    print("by: sneakerhax")
+    print("by: theo#0175")
     print("")
 
 
